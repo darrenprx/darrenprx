@@ -1,5 +1,5 @@
 ## Hi there 👋 Here is Darren.
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?darrenprx=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **danruimeng/danruimeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
